@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "organization": "mafia",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "createdAt": "2021-05-01T04:32:45.513Z"
+  },
+  {
+    "updatedAt": "2021-05-05T13:13:10.679Z",
+    "id": 2,
+    "organization": "another",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "createdAt": "2021-05-05T13:12:44.942Z"
+  }
+]
